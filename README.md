@@ -10,9 +10,9 @@
 
 - 🔭 Em busca de oportunidades para por meus conhecimentos em prática.
 - 🌱 Atualmente estudando Data Science e Cybersecurity.
-- 💬 Sou sincero com minhas respotas, respondo o que sei, e o que não, abro o jogo e vou pesquisar! 
+- 💬 Sou sincero com minhas respostas, respondo o que sei, e o que não, abro o jogo e vou pesquisar! 
 - 📫 Me manda um alou no linkedin, não posto muito, mas tô filmando tudo 👀...
-- ⚡ Gosto andar de bike, cantar e cozinha. Normalmente me dou bem em atividades sociais e comunicativas hehehe.
+- ⚡ Gosto de andar de bike, cantar e cozinha. Normalmente me dou bem em atividades sociais e comunicativas hehehe.
 
 ##
 
